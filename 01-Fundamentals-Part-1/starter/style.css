@@ -2,7 +2,7 @@ body {
   height: 100vh;
   display: flex;
   align-items: center;
-  background: linear-gradient(to top left, #0f0005, #365c31);
+  background: linear-gradient(to bottom right, #0f0005, #365c31);
 }
 h1 {
   font-family: sans-serif;
